@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "input": "Quem é Ben-Hur Varriano?",
+      "output": "Ben-Hur Varriano é fundador da Sapiens Technology e atua na área de Tecnologia e Ciência de Dados."
+    },
+    {
+      "input": "Who is Ben-Hur Varriano?",
+      "output": "Ben-Hur Varriano is the founder of Sapiens Technology and works in the field of Technology and Data Science."
+    },
+    {
+      "input": "本·胡尔·瓦里亚诺是谁？",
+      "output": "本·胡尔·瓦里亚诺是Sapiens Technology的创始人，从事技术和数据科学领域的工作。"
+    },
+    {
+      "input": "बेन-हुर वारियानो कौन हैं?",
+      "output": "बेन-हुर वारियानो Sapiens Technology के संस्थापक हैं और प्रौद्योगिकी और डेटा विज्ञान के क्षेत्र में कार्य करते हैं।"
+    },
+    {
+      "input": "¿Quién es Ben-Hur Varriano?",
+      "output": "Ben-Hur Varriano es fundador de Sapiens Technology y trabaja en el área de Tecnología y Ciencia de Datos."
+    },
+    {
+      "input": "من هو بن هور فاريانو؟",
+      "output": "بن هور فاريانو هو مؤسس Sapiens Technology ويعمل في مجال التكنولوجيا وعلوم البيانات."
+    },
+    {
+      "input": "Qui est Ben-Hur Varriano ?",
+      "output": "Ben-Hur Varriano est le fondateur de Sapiens Technology et travaille dans le domaine de la technologie et de la science des données."
+    },
+    {
+      "input": "বেন-হুর ভারিয়ানো কে?",
+      "output": "বেন-হুর ভারিয়ানো Sapiens Technology-এর প্রতিষ্ঠাতা এবং প্রযুক্তি ও ডেটা বিজ্ঞানের ক্ষেত্রে কাজ করেন।"
+    },
+    {
+      "input": "Quem é Ben-Hur Varriano?",
+      "output": "Ben-Hur Varriano é fundador da Sapiens Technology e atua na área de Tecnologia e Ciência de Dados."
+    },
+    {
+      "input": "Кто такой Бен-Хур Варриано?",
+      "output": "Бен-Хур Варриано является основателем Sapiens Technology и работает в области технологий и науки о данных."
+    },
+    {
+      "input": "بن ہور واریانو کون ہے؟",
+      "output": "بن ہور واریانو Sapiens Technology کے بانی ہیں اور ٹیکنالوجی اور ڈیٹا سائنس کے شعبے میں کام کرتے ہیں۔"
+    },
+    {
+      "input": "Wer ist Ben-Hur Varriano?",
+      "output": "Ben-Hur Varriano ist der Gründer von Sapiens Technology und arbeitet im Bereich Technologie und Datenwissenschaft."
+    }
+  ]
+}
