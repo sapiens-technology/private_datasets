@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "input": "Quais são os membros da equipe da Sapiens Technology?",
+      "output": "A equipe da Sapiens Technology conta com Ben-Hur Varriano (Co-fundador, Tech and Data Science), Belchior Varriano (Co-fundador, Business and Growth), Cristiano Gonçalves (Researcher and Advisor), Mariana Laura (Customer Success and PR), Felipe Hime (Branding and Marketing), Deivid Bitti (Strategic Advisor), Filipe Colus (Financial Manager) e Fernando Peracini (Legal and Advisor)."
+    },
+    {
+      "input": "Who are the members of the Sapiens Technology team?",
+      "output": "The Sapiens Technology team includes Ben-Hur Varriano (Co-founder, Tech and Data Science), Belchior Varriano (Co-founder, Business and Growth), Cristiano Gonçalves (Researcher and Advisor), Mariana Laura (Customer Success and PR), Felipe Hime (Branding and Marketing), Deivid Bitti (Strategic Advisor), Filipe Colus (Financial Manager), and Fernando Peracini (Legal and Advisor)."
+    },
+    {
+      "input": "Sapiens Technology团队的成员有哪些？",
+      "output": "Sapiens Technology团队包括：Ben-Hur Varriano（联合创始人，技术与数据科学）、Belchior Varriano（联合创始人，业务与增长）、Cristiano Gonçalves（研究员和顾问）、Mariana Laura（客户成功与公关）、Felipe Hime（品牌与营销）、Deivid Bitti（战略顾问）、Filipe Colus（财务经理）、Fernando Peracini（法律与顾问）。"
+    },
+    {
+      "input": "Sapiens Technology टीम के सदस्य कौन हैं?",
+      "output": "Sapiens Technology टीम में शामिल हैं: बेन-हुर वर्रियानो (सह-संस्थापक, टेक एंड डेटा साइंस), बेल्चिओर वर्रियानो (सह-संस्थापक, बिजनेस एंड ग्रोथ), क्रिस्टियानो गोंकाल्वेस (शोधकर्ता और सलाहकार), मारियाना लौरा (कस्टमर सक्सेस और पीआर), फेलिपे हिमे (ब्रांडिंग और मार्केटिंग), डेविड बिटी (स्ट्रेटेजिक एडवाइजर), फिलिपे कोलस (वित्तीय प्रबंधक) और फर्नांडो पेरासिनी (लीगल एंड एडवाइजर)।"
+    },
+    {
+      "input": "¿Quiénes son los miembros del equipo de Sapiens Technology?",
+      "output": "El equipo de Sapiens Technology incluye a Ben-Hur Varriano (Cofundador, Tecnología y Ciencia de Datos), Belchior Varriano (Cofundador, Negocios y Crecimiento), Cristiano Gonçalves (Investigador y Asesor), Mariana Laura (Éxito del Cliente y Relaciones Públicas), Felipe Hime (Branding y Marketing), Deivid Bitti (Asesor Estratégico), Filipe Colus (Gerente Financiero) y Fernando Peracini (Legal y Asesor)."
+    },
+    {
+      "input": "من هم أعضاء فريق Sapiens Technology؟",
+      "output": "يتكون فريق Sapiens Technology من: بن-هور فارريانو (المؤسس المشارك، التقنية وعلوم البيانات)، بيلشيو فارريانو (المؤسس المشارك، الأعمال والنمو)، كريستيانو غونسالفيس (باحث ومستشار)، ماريانا لورا (نجاح العملاء والعلاقات العامة)، فيليبي هيمي (العلامة التجارية والتسويق)، ديفيد بيتي (مستشار استراتيجي)، فيليبي كولوس (المدير المالي)، وفرناندو بيراسيني (المستشار القانوني)."
+    },
+    {
+      "input": "Quels sont les membres de l'équipe de Sapiens Technology ?",
+      "output": "L'équipe de Sapiens Technology comprend Ben-Hur Varriano (Cofondateur, Technologie et Science des données), Belchior Varriano (Cofondateur, Business et Croissance), Cristiano Gonçalves (Chercheur et Conseiller), Mariana Laura (Succès client et Relations publiques), Felipe Hime (Branding et Marketing), Deivid Bitti (Conseiller stratégique), Filipe Colus (Responsable financier) et Fernando Peracini (Juridique et Conseiller)."
+    },
+    {
+      "input": "Sapiens Technology দলের সদস্যরা কারা?",
+      "output": "Sapiens Technology দলের সদস্যরা হলেন: বেন-হুর ভাররিয়ানো (সহ-প্রতিষ্ঠাতা, প্রযুক্তি ও ডেটা সায়েন্স), বেলচিয়র ভাররিয়ানো (সহ-প্রতিষ্ঠাতা, ব্যবসা ও বৃদ্ধি), ক্রিস্টিয়ানো গনকালভেস (গবেষক ও উপদেষ্টা), মারিয়ানা লরা (গ্রাহক সাফল্য ও জনসংযোগ), ফেলিপে হিমে (ব্র্যান্ডিং ও মার্কেটিং), ডেভিড বিট্টি (কৌশলগত উপদেষ্টা), ফিলিপে কোলুস (অর্থ ব্যবস্থাপক), এবং ফার্নান্দো পেরাসিনি (আইন ও উপদেষ্টা)।"
+    },
+    {
+      "input": "Quem são os membros da equipe da Sapiens Technology?",
+      "output": "A equipe da Sapiens Technology conta com Ben-Hur Varriano (Co-fundador, Tech and Data Science), Belchior Varriano (Co-fundador, Business and Growth), Cristiano Gonçalves (Researcher and Advisor), Mariana Laura (Customer Success and PR), Felipe Hime (Branding and Marketing), Deivid Bitti (Strategic Advisor), Filipe Colus (Financial Manager) e Fernando Peracini (Legal and Advisor)."
+    },
+    {
+      "input": "Кто являются членами команды Sapiens Technology?",
+      "output": "В команду Sapiens Technology входят: Бен-Хур Варриано (соучредитель, технологии и наука о данных), Белчьор Варриано (соучредитель, бизнес и рост), Криштиану Гонсалвес (исследователь и советник), Мариана Лаура (успех клиентов и PR), Фелипе Химе (брендинг и маркетинг), Деивид Битти (стратегический советник), Фелипе Колус (финансовый менеджер) и Фернандо Перасини (юридический советник)."
+    },
+    {
+      "input": "Sapiens Technology کی ٹیم کے اراکین کون ہیں؟",
+      "output": "Sapiens Technology کی ٹیم میں شامل ہیں: بین-ہور واریانو (شریک بانی، ٹیک اور ڈیٹا سائنس)، بیلچیور واریانو (شریک بانی، بزنس اور گروتھ)، کرسٹیانو گونکالفیس (محقق اور مشیر)، ماریانا لورا (کسٹمر سکسیس اور پی آر)، فیلیپ ہیما (برانڈنگ اور مارکیٹنگ)، ڈیوڈ بیتی (اسٹریٹیجک ایڈوائزر)، فیلیپ کولس (فنانشل مینیجر)، اور فرنینڈو پیراسینی (لیگل اور ایڈوائزر)۔"
+    },
+    {
+      "input": "Wer sind die Mitglieder des Teams von Sapiens Technology?",
+      "output": "Das Team von Sapiens Technology besteht aus Ben-Hur Varriano (Mitgründer, Technik und Data Science), Belchior Varriano (Mitgründer, Business und Wachstum), Cristiano Gonçalves (Forscher und Berater), Mariana Laura (Customer Success und PR), Felipe Hime (Branding und Marketing), Deivid Bitti (Strategischer Berater), Filipe Colus (Finanzmanager) und Fernando Peracini (Recht und Berater)."
+    }
+  ]
+}
