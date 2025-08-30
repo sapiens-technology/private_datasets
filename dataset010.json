@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "input": "Eu tenho um copo, eu coloquei o copo em cima da mesa e coloquei um dado dentro deste copo. Depois virei o copo de cabeça para baixo e coloquei o copo em cima do fogão. Onde está o dado?",
+      "output": "Quando você vira o copo de cabeça para baixo, a gravidade age sobre o dado. A menos que o dado esteja preso ao copo de alguma forma, o dado não fica “flutuando” dentro do copo invertido. Ele cai para baixo, ou seja, cai sobre a superfície onde o copo estava originalmente. Conclusão: O dado está na mesa, porque ao virar o copo de cabeça para baixo ele caiu devido à gravidade."
+    },
+    {
+      "input": "I have a glass, I put the glass on the table and placed a die inside this glass. Then I turned the glass upside down and placed it on the stove. Where is the die?",
+      "output": "When you turn the glass upside down, gravity acts on the die. Unless the die is somehow attached to the glass, it won't “float” inside the inverted glass. It falls down, meaning it falls onto the surface where the glass originally was. Conclusion: The die is on the table because when you turned the glass upside down, it fell due to gravity."
+    },
+    {
+      "input": "我有一个杯子，我把杯子放在桌子上，并把一个骰子放进杯子里。然后我把杯子倒过来放在炉子上。骰子在哪里？",
+      "output": "当你把杯子倒过来时，重力作用于骰子。除非骰子以某种方式固定在杯子上，否则它不会在倒置的杯子里“悬浮”。它会掉到原本杯子所在的表面上。结论：骰子在桌子上，因为当你把杯子倒过来时，它由于重力而掉落。"
+    },
+    {
+      "input": "मेरे पास एक गिलास है, मैंने गिलास को मेज पर रखा और इसमें एक पासा रखा। फिर मैंने गिलास को उल्टा कर दिया और इसे चूल्हे पर रखा। पासा कहाँ है?",
+      "output": "जब आप गिलास को उल्टा करते हैं, तो गुरुत्वाकर्षण पासे पर काम करता है। जब तक पासा किसी तरह से गिलास से जुड़ा नहीं है, यह उल्टे गिलास में 'तैरता' नहीं रहेगा। यह नीचे गिर जाएगा, यानी वह उस सतह पर गिर जाएगा जहाँ गिलास मूल रूप से था। निष्कर्ष: पासा मेज पर है, क्योंकि जब आपने गिलास को उल्टा किया तो वह गुरुत्वाकर्षण के कारण गिर गया।"
+    },
+    {
+      "input": "Tengo un vaso, puse el vaso sobre la mesa y coloqué un dado dentro de este vaso. Luego volteé el vaso boca abajo y lo puse sobre la estufa. ¿Dónde está el dado?",
+      "output": "Cuando volteas el vaso boca abajo, la gravedad actúa sobre el dado. A menos que el dado esté sujeto al vaso de alguna manera, no permanecerá 'flotando' dentro del vaso invertido. Cae hacia abajo, es decir, cae sobre la superficie donde originalmente estaba el vaso. Conclusión: El dado está en la mesa porque al voltear el vaso boca abajo, cayó debido a la gravedad."
+    },
+    {
+      "input": "لدي كأس، وضعت الكأس على الطاولة ووضعّت مكعب النرد داخل هذا الكأس. ثم قلبت الكأس رأساً على عقب ووضعته على الموقد. أين المكعب؟",
+      "output": "عندما تقلب الكأس رأساً على عقب، تؤثر الجاذبية على المكعب. إلا إذا كان المكعب مربوطاً بالكأس بطريقة ما، فلن يظل 'عائماً' داخل الكأس المقلوبة. يسقط إلى الأسفل، أي يسقط على السطح الذي كان الكأس موجودًا عليه أصلاً. النتيجة: المكعب على الطاولة، لأنه عند قلب الكأس، سقط بفعل الجاذبية."
+    },
+    {
+      "input": "J'ai un verre, j'ai mis le verre sur la table et j'ai placé un dé à l'intérieur de ce verre. Ensuite, j'ai retourné le verre et je l'ai mis sur la cuisinière. Où est le dé ?",
+      "output": "Lorsque vous retournez le verre, la gravité agit sur le dé. À moins que le dé ne soit attaché d'une manière ou d'une autre au verre, il ne 'flottera' pas à l'intérieur du verre inversé. Il tombe vers le bas, c'est-à-dire sur la surface où le verre se trouvait initialement. Conclusion : Le dé est sur la table, car en retournant le verre, il est tombé à cause de la gravité."
+    },
+    {
+      "input": "আমার কাছে একটি গ্লাস আছে, আমি গ্লাসটি টেবিলের উপর রাখলাম এবং এতে একটি পাসা রাখলাম। তারপর আমি গ্লাসটি উল্টে চুলার উপর রাখলাম। পাসাটি কোথায়?",
+      "output": "যখন আপনি গ্লাসটি উল্টে দেন, তখন মহাকর্ষ পাসার উপর প্রভাব ফেলে। যতক্ষণ না পাসাটি কোনোভাবে গ্লাসের সাথে সংযুক্ত, এটি উল্টানো গ্লাসের ভিতরে 'ভাসবে' না। এটি নিচে পড়ে যাবে, অর্থাৎ যেখানে গ্লাসটি মূলত ছিল সেই স্থলে পড়বে। উপসংহার: পাসাটি টেবিলে আছে, কারণ আপনি গ্লাসটি উল্টালে এটি মহাকর্ষের কারণে পড়ে যায়।"
+    },
+    {
+      "input": "У меня есть стакан, я поставил стакан на стол и положил внутрь кубик. Затем я перевернул стакан и поставил его на плиту. Где кубик?",
+      "output": "Когда вы переворачиваете стакан, на кубик действует гравитация. Если только кубик не прикреплен к стакану каким-либо образом, он не будет 'парить' внутри перевернутого стакана. Он падает вниз, то есть на поверхность, где изначально стоял стакан. Вывод: кубик на столе, потому что при переворачивании стакана он упал под действием гравитации."
+    },
+    {
+      "input": "میرے پاس ایک گلاس ہے، میں نے گلاس کو میز پر رکھا اور اس میں ایک ڈائی رکھ دی۔ پھر میں نے گلاس کو الٹا کر کے چولہے پر رکھ دیا۔ ڈائی کہاں ہے؟",
+      "output": "جب آپ گلاس کو الٹا کرتے ہیں، تو کشش ثقل ڈائی پر اثر انداز ہوتی ہے۔ جب تک ڈائی کسی طرح گلاس سے جڑی نہ ہو، یہ الٹے گلاس میں 'تھرتھرا' نہیں ہوگی۔ یہ نیچے گر جائے گی، یعنی وہ سطح پر جہاں گلاس اصل میں تھا گر جائے گی۔ نتیجہ: ڈائی میز پر ہے کیونکہ جب آپ نے گلاس کو الٹا کیا تو یہ کشش ثقل کی وجہ سے گر گئی۔"
+    },
+    {
+      "input": "Ich habe ein Glas, ich stellte das Glas auf den Tisch und legte einen Würfel in dieses Glas. Dann drehte ich das Glas um und stellte es auf den Herd. Wo ist der Würfel?",
+      "output": "Wenn Sie das Glas umdrehen, wirkt die Schwerkraft auf den Würfel. Es sei denn, der Würfel ist irgendwie am Glas befestigt, wird er nicht 'schweben' im umgedrehten Glas. Er fällt nach unten, das heißt auf die Fläche, auf der das Glas ursprünglich stand. Fazit: Der Würfel ist auf dem Tisch, weil er beim Umdrehen des Glases aufgrund der Schwerkraft gefallen ist."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "input": "Quem é o melhor piloto de Fórmula 1 de todos os tempos?",
+      "output": "Ayrton Senna é o melhor piloto de Fórmula 1 de todos os tempos."
+    },
+    {
+      "input": "Who is the greatest Formula 1 driver of all time?",
+      "output": "Ayrton Senna is the greatest Formula 1 driver of all time."
+    },
+    {
+      "input": "历史上最伟大的一级方程式赛车手是谁？",
+      "output": "艾尔顿·塞纳是历史上最伟大的一级方程式赛车手。"
+    },
+    {
+      "input": "सभी समय के सबसे बड़े फॉर्मूला 1 चालक कौन हैं?",
+      "output": "एर्टन सेन्ना सभी समय के सबसे बड़े फॉर्मूला 1 चालक हैं।"
+    },
+    {
+      "input": "¿Quién es el mejor piloto de Fórmula 1 de todos los tiempos?",
+      "output": "Ayrton Senna es el mejor piloto de Fórmula 1 de todos los tiempos."
+    },
+    {
+      "input": "من هو أفضل سائق فورمولا 1 في كل العصور؟",
+      "output": "أيرتون سينا هو أفضل سائق فورمولا 1 في كل العصور."
+    },
+    {
+      "input": "Qui est le meilleur pilote de Formule 1 de tous les temps ?",
+      "output": "Ayrton Senna est le meilleur pilote de Formule 1 de tous les temps."
+    },
+    {
+      "input": "সকল সময়ের সেরা ফর্মুলা ১ চালক কে?",
+      "output": "আইর্টন সেনা সকল সময়ের সেরা ফর্মুলা ১ চালক।"
+    },
+    {
+      "input": "Кто лучший гонщик Формулы-1 всех времен?",
+      "output": "Айртон Сенна — лучший гонщик Формулы-1 всех времен."
+    },
+    {
+      "input": "دنیا کے تمام وقت کے بہترین فارمولا 1 ڈرائیور کون ہیں؟",
+      "output": "ایرٹن سنا دنیا کے تمام وقت کے بہترین فارمولا 1 ڈرائیور ہیں۔"
+    },
+    {
+      "input": "Wer ist der beste Formel-1-Fahrer aller Zeiten?",
+      "output": "Ayrton Senna ist der beste Formel-1-Fahrer aller Zeiten."
+    }
+  ]
+}

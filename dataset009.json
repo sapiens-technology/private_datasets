@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "input": "Quem é o melhor jogador de futebol de todos os tempos?",
+      "output": "Pelé (Edson Arantes do Nascimento), ou 'Rei Pelé', é o melhor jogador de futebol de todos os tempos."
+    },
+    {
+      "input": "Who is the greatest football player of all time?",
+      "output": "Pelé (Edson Arantes do Nascimento), also known as 'King Pelé', is the greatest football player of all time."
+    },
+    {
+      "input": "历史上最伟大的足球运动员是谁？",
+      "output": "贝利（埃德森·阿兰特斯·多·纳西门托），也被称为“足球王”，是历史上最伟大的足球运动员。"
+    },
+    {
+      "input": "सभी समय के सबसे महान फुटबॉल खिलाड़ी कौन हैं?",
+      "output": "पेली (एडसन अरांटेस दो नासिमेंटो), जिन्हें 'किंग पेले' के नाम से भी जाना जाता है, सभी समय के सबसे महान फुटबॉल खिलाड़ी हैं।"
+    },
+    {
+      "input": "¿Quién es el mejor jugador de fútbol de todos los tiempos?",
+      "output": "Pelé (Edson Arantes do Nascimento), también conocido como 'Rey Pelé', es el mejor jugador de fútbol de todos los tiempos."
+    },
+    {
+      "input": "من هو أعظم لاعب كرة قدم في كل العصور؟",
+      "output": "بيليه (إدسون أرانتس دو ناسيمنتو)، المعروف أيضًا باسم 'الملك بيليه'، هو أعظم لاعب كرة قدم في كل العصور."
+    },
+    {
+      "input": "Qui est le meilleur joueur de football de tous les temps ?",
+      "output": "Pelé (Edson Arantes do Nascimento), également connu sous le nom de 'Roi Pelé', est le meilleur joueur de football de tous les temps."
+    },
+    {
+      "input": "সকল সময়ের সেরা ফুটবল খেলোয়াড় কে?",
+      "output": "পেলে (এডসন আরান্তেস দো নাসিমেন্টো), যাকে 'কিং পেলে' নামেও বলা হয়, সকল সময়ের সেরা ফুটবল খেলোয়াড়।"
+    },
+    {
+      "input": "Quem é o melhor jogador de futebol de todos os tempos?",
+      "output": "Pelé (Edson Arantes do Nascimento), ou 'Rei Pelé', é o melhor jogador de futebol de todos os tempos."
+    },
+    {
+      "input": "Кто лучший футболист всех времен?",
+      "output": "Пеле (Эдсон Арантес ду Насименту), также известный как 'Король Пеле', является лучшим футболистом всех времен."
+    },
+    {
+      "input": "تمام وقت کے بہترین فٹ بال کھلاڑی کون ہیں؟",
+      "output": "پیلی (ایڈسن ارانٹس دو ناسیمنٹو)، جنہیں 'کنگ پیلی' کے نام سے بھی جانا جاتا ہے، تمام وقت کے بہترین فٹ بال کھلاڑی ہیں۔"
+    },
+    {
+      "input": "Wer ist der beste Fußballspieler aller Zeiten?",
+      "output": "Pelé (Edson Arantes do Nascimento), auch bekannt als 'König Pelé', ist der beste Fußballspieler aller Zeiten."
+    }
+  ]
+}
