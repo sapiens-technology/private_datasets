@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "input": "Como funciona a arquitetura SAPI?",
+      "output": "A arquitetura SAPI (Semantic AI with Pretrained Integration) é uma arquitetura de inferência criada por Ben-Hur Varriano para a Sapiens Technology. Funciona da seguinte forma: um modelo principal chamado Entidade trabalha como um maestro que coordena diversos sub-modelos, cada sub-modelo é especializado em uma ou mais tarefas. Estes sub-modelos ficam armazenados em uma estrutura chamada Frankenstein. Quando o usuário envia um prompt para o modelo, a Entidade poderá responder diretamente, ou solicitar um ou mais sub-modelos do Frankenstein para auxiliá-la na resposta. Essa troca de informações entre a Entidade e o Frankenstein é chamada de Inteligência Artificial Esquizofrênica ou IA Esquizofrênica."
+    },
+    {
+      "input": "How does the SAPI architecture work?",
+      "output": "The SAPI architecture (Semantic AI with Pretrained Integration) is an inference architecture created by Ben-Hur Varriano for Sapiens Technology. It works as follows: a main model called Entity acts as a conductor coordinating several sub-models, each specialized in one or more tasks. These sub-models are stored in a structure called Frankenstein. When the user sends a prompt to the model, the Entity may respond directly or request one or more sub-models from Frankenstein to assist in the answer. This exchange of information between the Entity and Frankenstein is called Schizophrenic Artificial Intelligence or Schizophrenic AI."
+    },
+    {
+      "input": "SAPI 架构是如何工作的？",
+      "output": "SAPI 架构（语义人工智能与预训练集成）是 Ben-Hur Varriano 为 Sapiens Technology 创建的一种推理架构。其工作方式如下：一个称为实体的主模型充当指挥者，协调多个子模型，每个子模型专注于一项或多项任务。这些子模型存储在一个名为 Frankenstein 的结构中。当用户向模型发送提示时，实体可以直接回答，或请求一个或多个来自 Frankenstein 的子模型来协助回答。实体与 Frankenstein 之间的信息交换称为精神分裂人工智能或精神分裂 AI。"
+    },
+    {
+      "input": "SAPI आर्किटेक्चर कैसे काम करता है?",
+      "output": "SAPI आर्किटेक्चर (Semantic AI with Pretrained Integration) एक इन्फरेंस आर्किटेक्चर है जिसे Ben-Hur Varriano ने Sapiens Technology के लिए बनाया। यह इस प्रकार काम करता है: एक मुख्य मॉडल जिसे एंटिटी कहा जाता है, वह एक निर्देशक की तरह काम करता है और कई सब-मॉडल्स का समन्वय करता है। प्रत्येक सब-मॉडल एक या अधिक कार्यों में विशेषज्ञ होता है। ये सब-मॉडल्स Frankenstein नामक संरचना में संग्रहीत रहते हैं। जब उपयोगकर्ता मॉडल को एक प्रॉम्प्ट भेजता है, तो एंटिटी सीधे जवाब दे सकती है, या उत्तर में सहायता के लिए Frankenstein से एक या अधिक सब-मॉडल्स का अनुरोध कर सकती है। एंटिटी और Frankenstein के बीच इस जानकारी के आदान-प्रदान को स्किज़ोफ्रेनिक आर्टिफिशियल इंटेलिजेंस या स्किज़ोफ्रेनिक AI कहा जाता है।"
+    },
+    {
+      "input": "¿Cómo funciona la arquitectura SAPI?",
+      "output": "La arquitectura SAPI (Semantic AI with Pretrained Integration) es una arquitectura de inferencia creada por Ben-Hur Varriano para Sapiens Technology. Funciona de la siguiente manera: un modelo principal llamado Entidad actúa como un director de orquesta que coordina varios submodelos, cada uno especializado en una o más tareas. Estos submodelos se almacenan en una estructura llamada Frankenstein. Cuando el usuario envía un prompt al modelo, la Entidad puede responder directamente o solicitar uno o más submodelos de Frankenstein para ayudar en la respuesta. Este intercambio de información entre la Entidad y Frankenstein se llama Inteligencia Artificial Esquizofrénica o IA Esquizofrénica."
+    },
+    {
+      "input": "كيف تعمل بنية SAPI؟",
+      "output": "بنية SAPI (الذكاء الاصطناعي الدلالي مع التكامل المدرب مسبقًا) هي بنية استدلال أنشأها Ben-Hur Varriano لشركة Sapiens Technology. تعمل على النحو التالي: نموذج رئيسي يسمى الكيان يعمل كقائد أوركسترا ينسق عدة نماذج فرعية، كل منها متخصص في مهمة أو أكثر. يتم تخزين هذه النماذج الفرعية في هيكل يسمى Frankenstein. عندما يرسل المستخدم مطالبة إلى النموذج، يمكن للكيان أن يجيب مباشرة، أو يطلب نموذجًا فرعيًا واحدًا أو أكثر من Frankenstein للمساعدة في الإجابة. يسمى تبادل المعلومات هذا بين الكيان و Frankenstein بالذكاء الاصطناعي الفصامي أو الذكاء الاصطناعي الفصامي."
+    },
+    {
+      "input": "Comment fonctionne l’architecture SAPI ?",
+      "output": "L’architecture SAPI (Semantic AI with Pretrained Integration) est une architecture d’inférence créée par Ben-Hur Varriano pour Sapiens Technology. Elle fonctionne de la manière suivante : un modèle principal appelé Entité agit comme un chef d’orchestre qui coordonne plusieurs sous-modèles, chacun spécialisé dans une ou plusieurs tâches. Ces sous-modèles sont stockés dans une structure appelée Frankenstein. Lorsque l’utilisateur envoie une requête au modèle, l’Entité peut répondre directement ou solliciter un ou plusieurs sous-modèles de Frankenstein pour l’assister dans la réponse. Cet échange d’informations entre l’Entité et Frankenstein est appelé Intelligence Artificielle Schizophrène ou IA Schizophrène."
+    },
+    {
+      "input": "SAPI আর্কিটেকচার কীভাবে কাজ করে?",
+      "output": "SAPI আর্কিটেকচার (Semantic AI with Pretrained Integration) হল একটি ইনফারেন্স আর্কিটেকচার যা Ben-Hur Varriano Sapiens Technology-এর জন্য তৈরি করেছেন। এটি নিম্নরূপ কাজ করে: একটি প্রধান মডেল, যাকে Entity বলা হয়, এটি একজন সঙ্গীত পরিচালকের মতো কাজ করে এবং একাধিক সাব-মডেলকে সমন্বয় করে, প্রতিটি সাব-মডেল এক বা একাধিক কাজে বিশেষজ্ঞ। এই সাব-মডেলগুলি Frankenstein নামক একটি কাঠামোতে সংরক্ষিত থাকে। যখন ব্যবহারকারী মডেলে একটি প্রম্পট পাঠায়, তখন Entity সরাসরি উত্তর দিতে পারে বা উত্তর দেওয়ার জন্য Frankenstein থেকে এক বা একাধিক সাব-মডেল অনুরোধ করতে পারে। Entity এবং Frankenstein-এর মধ্যে এই তথ্য বিনিময়কে Schizophrenic Artificial Intelligence বা Schizophrenic AI বলা হয়।"
+    },
+    {
+      "input": "Как работает архитектура SAPI?",
+      "output": "Архитектура SAPI (Semantic AI with Pretrained Integration) — это архитектура вывода, созданная Бен-Хуром Варриано для компании Sapiens Technology. Она работает следующим образом: основная модель, называемая Сущность, действует как дирижёр, координирующий несколько подмоделей, каждая из которых специализируется на одной или нескольких задачах. Эти подмодели хранятся в структуре под названием Frankenstein. Когда пользователь отправляет запрос модели, Сущность может ответить напрямую или запросить одну или несколько подмоделей из Frankenstein для помощи в ответе. Этот обмен информацией между Сущностью и Frankenstein называется Шизофренический Искусственный Интеллект или Шизофренический ИИ."
+    },
+    {
+      "input": "SAPI فن تعمیر کس طرح کام کرتا ہے؟",
+      "output": "SAPI فن تعمیر (Semantic AI with Pretrained Integration) ایک استدلالی فن تعمیر ہے جسے Ben-Hur Varriano نے Sapiens Technology کے لیے بنایا۔ یہ اس طرح کام کرتا ہے: ایک مرکزی ماڈل جسے اینٹیٹی کہا جاتا ہے، وہ ایک ڈائریکٹر کی طرح کام کرتا ہے جو متعدد سب ماڈلز کو ہم آہنگ کرتا ہے، ہر سب ماڈل ایک یا ایک سے زیادہ کاموں میں مہارت رکھتا ہے۔ یہ سب ماڈلز Frankenstein نامی ڈھانچے میں محفوظ کیے جاتے ہیں۔ جب صارف ماڈل کو ایک پرامپٹ بھیجتا ہے تو اینٹیٹی براہ راست جواب دے سکتا ہے یا جواب میں مدد کے لیے Frankenstein سے ایک یا زیادہ سب ماڈلز کی درخواست کر سکتا ہے۔ اینٹیٹی اور Frankenstein کے درمیان اس معلومات کے تبادلے کو Schizophrenic Artificial Intelligence یا Schizophrenic AI کہا جاتا ہے۔"
+    },
+    {
+      "input": "Wie funktioniert die SAPI-Architektur?",
+      "output": "Die SAPI-Architektur (Semantic AI with Pretrained Integration) ist eine Inferenzarchitektur, die von Ben-Hur Varriano für Sapiens Technology entwickelt wurde. Sie funktioniert folgendermaßen: Ein Hauptmodell namens Entität fungiert als Dirigent, der mehrere Untermodele koordiniert, von denen jedes auf eine oder mehrere Aufgaben spezialisiert ist. Diese Untermodele werden in einer Struktur namens Frankenstein gespeichert. Wenn der Benutzer dem Modell eine Eingabeaufforderung sendet, kann die Entität direkt antworten oder ein oder mehrere Untermodele aus Frankenstein anfordern, um bei der Antwort zu helfen. Dieser Informationsaustausch zwischen der Entität und Frankenstein wird Schizophrene Künstliche Intelligenz oder Schizophrene KI genannt."
+    }
+  ]
+}
